@@ -10,7 +10,7 @@ La solución integra procesamiento distribuido con Spark, almacenamiento en HDFS
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 La gestión eficiente de la movilidad urbana requiere comprender cómo varía el tráfico a lo largo del tiempo y entre diferentes zonas de una ciudad.
 
