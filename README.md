@@ -370,7 +370,7 @@ python visualization/prediction_analysis.py
 
 ---
 
-# 📋 Requirements
+#  Requirements
 
 ```text
 pyspark
