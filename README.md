@@ -282,15 +282,13 @@ proyecto_trafico/
 │       └── DATASET_SOURCE.md
 │
 ├── spark_jobs/
-│   ├── ingestion.py
-│   ├── etl.py
-│   ├── feature_engineering.py
-│   └── train_model.py
+│   ├── 01_etl.py
+│   ├── 02_modelo.py
+│   ├── 03_modelo.py
+│   └── 04_export_hdfs.py
 │
 ├── visualization/
-│   ├── traffic_by_hour.py
-│   ├── traffic_by_borough.py
-│   └── prediction_analysis.py
+│   └── 04_visualization.py
 │
 │
 └── README.md
